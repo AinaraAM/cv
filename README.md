@@ -4,11 +4,11 @@
 - Correo-e: ainare.arbiol.martinez@gmail.com
 - Linkedin: https://www.linkedin.com/in/ainara-a-martinez/
 
-## Perfil
+## MI PERFIL
 
 Soy empática, autodidacta, entusiasta, responsable, altruista, solidaria, dialogante y reflexiva. Estoy abierta a nuevos aprendizajes. Tengo más de 20 años de experiencia en el trato y atención al usuario: ayudando, asesorando y formando en las TIC, los tres años últimos años formando y concienciando sobre las las barreras y recursos para la comunidad trans.
 
-## Habilidades
+## MIS HABILIDADES
 
 - Gestión de personas y recursos
 - Realización de documentación
@@ -18,10 +18,10 @@ Soy empática, autodidacta, entusiasta, responsable, altruista, solidaria, dialo
 - Instaladora eléctricista de viviendas
 - Carné de conducir
 
-## Experiencia profesional
+## MI EXPERIENCIA PROFESIONAL
 ### 2022      - GRUPO KONECTA (B2C)
                 Atención al cliente MásMóvil
-                Gestión y asesoramiento en servicios, facturación, reclamaciones, etc.
+                Gestión de alta y bajas en servicios contratados, información de facturas y del estado de servicios, gestión de reclamaciones.
                  
 ### 2021      - BRICK BANG (B2C)
                 Becaria en gestión de pequeño comercio (B2C)
@@ -46,5 +46,15 @@ Soy empática, autodidacta, entusiasta, responsable, altruista, solidaria, dialo
 ### 2006~2007 - IBERMÁTICA (B2B)
                 Coordinadora de instalaciones corporativas intranet British Telecom
                 Gestionándo nstalaciones corporativas «a-end»
+                
+### 2005~2006 - TELEPERFORMANCE (B2C)
+                Técnica de soporte y atención al cliente en español e inglés Jazztel
+                Configuración de acceso a internet por accceso telefonico a redes y por LAN en inglés y español
+                
+### 2001~2003 - HECC Alliance B.V. (B2C)
+                Técnica de soporte Linksys y Pinnacle Systems (B2C)
+                Soporte técnico de los fabricantes Linksys y Pinnacle systems en instalación, configuración y alfabetización en el uso del producto.
+
+## MI FORMACIÓN
 
                 
