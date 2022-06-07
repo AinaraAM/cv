@@ -3,6 +3,7 @@
 - Tlf. 691927587
 - Correo-e: ainare.arbiol.martinez@gmail.com
 - Linkedin: https://www.linkedin.com/in/ainara-a-martinez/
+- localidad: Fuenlabrada 28942 (Madrid)
 
 ## MI PERFIL
 
@@ -56,5 +57,18 @@ Soy empática, autodidacta, entusiasta, responsable, altruista, solidaria, dialo
                 Soporte técnico de los fabricantes Linksys y Pinnacle systems en instalación, configuración y alfabetización en el uso del producto.
 
 ## MI FORMACIÓN
+### 2021      - MÉDICOS DEL MUNDO
+                Certificado en gestión de conflictos
+                Territorios del conflicto, dimensión personal del conflicto, estilos de afrontamiento, tipologías del conflicto, técnicas de gestión del conflicto y ecología del conflicto.  
+              
+### 2020-2021 - CAMPUS FP
+                Certificado de profesionalidad en gestión del pequeño comercio (530hs)
+                Implantación y desarrollo, organización, animación, gestión de compras, operaciones de venta, prevención de riesgos laborales y prácticas profesionales en el pequeño comercio.
+                
+### 2016-2017 - U.N.E.D.
+                Diploma en inglés nivel B1  
+                
+### 2015-2016 - U.N.E.D.
+                Certificado de acceso a la universidad en humanidades
 
                 
