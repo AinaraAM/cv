@@ -19,5 +19,13 @@ Soy empática, autodidacta, entusiasta, responsable, altruista, solidaria, dialo
 - Carné de conducir
 
 ## Experiencia profesional
-### Grupo Diusframi
-Técnica de soporte de Redsýs
+### 2018~2020 - Grupo Diusframi
+                Técnica de soporte de Redsýs
+                Configuración y apertura de incidencias y atención al comercio para datáfonos y TPV PC
+              
+### 2013~2017 - Sitel Ibérica Teleservices S.A.
+                Técnica de soporte Movistar y Redsýs  
+                Atención al cliente y al comercio en la configuración de datáfonos y TPV PC (Redsýs), y soporte a ordenadores, móviles y tabletas (Movistar)
+              
+### 2010~2012 - Digitex Informática S.L.
+                Técnica de soporte Movis                           
