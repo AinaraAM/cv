@@ -13,11 +13,12 @@ Soy empática, autodidacta, entusiasta, responsable, altruista, solidaria, dialo
 
 - Gestión de personas y recursos
 - Realización de documentación
+- Uso y administración de Wordpress
 - Uso de Word, Excel y Powerpoint
 - Desarrollo en Wordpress
 - Formadora psicosocial
 - Instaladora eléctricista de viviendas
-- Carné de conducir
+- Carné de conducir B
 
 ## MI EXPERIENCIA PROFESIONAL
 ### 2022      - GRUPO KONECTA (B2C)
