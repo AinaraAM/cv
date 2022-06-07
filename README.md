@@ -58,7 +58,7 @@ Soy empática, autodidacta, entusiasta, responsable, altruista, solidaria, dialo
                 Soporte técnico de los fabricantes Linksys y Pinnacle systems en instalación, configuración y alfabetización en el uso del producto.
 
 ## MI FORMACIÓN
-### 2021      - MÉDICOS DEL MUNDO
+###    2021     - MÉDICOS DEL MUNDO
                 Certificado en gestión de conflictos
                 Territorios del conflicto, dimensión personal del conflicto, estilos de afrontamiento, tipologías del conflicto, técnicas de gestión del conflicto y ecología del conflicto.  
               
