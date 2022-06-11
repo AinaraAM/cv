@@ -15,7 +15,6 @@ Soy empática, autodidacta, entusiasta, responsable, altruista, solidaria, dialo
 - Realización de documentación
 - Uso y administración de Wordpress
 - Uso de Word, Excel y Powerpoint
-- Desarrollo en Wordpress
 - Formadora psicosocial
 - Instaladora eléctricista de viviendas
 - Carné de conducir B
